@@ -28,6 +28,7 @@
   --accent-foreground: #1a1a1a;
   --border: #e5e5e5;
   --ring: #1e3a8a;
+  --border-radius: 8px;
 
   /* Spacing */
   --container-padding: 1rem;
@@ -928,6 +929,7 @@ body {
     grid-column: span 1;
   }
 }
+
 
 
 
