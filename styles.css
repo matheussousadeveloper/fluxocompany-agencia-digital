@@ -211,7 +211,7 @@ body {
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.05em;
-    color: var(--accent-color);
+    color: #000000;
 }
 
 .cta svg {
@@ -928,4 +928,5 @@ body {
     grid-column: span 1;
   }
 }
+
 
