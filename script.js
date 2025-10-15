@@ -139,7 +139,7 @@ function scrollToSection(sectionId) {
 
 // WhatsApp Function
 function openWhatsApp(message) {
-  const phoneNumber = "5511999999999" // Replace with actual number
+  const phoneNumber = "5586988951184" // Replace with actual number
   const encodedMessage = encodeURIComponent(message)
   window.open(`https://wa.me/${phoneNumber}?text=${encodedMessage}`, "_blank")
 }
@@ -157,3 +157,4 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
     }
   })
 })
+
